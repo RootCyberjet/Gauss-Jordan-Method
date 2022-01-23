@@ -1,9 +1,9 @@
 /*				NAME - SHIBA BISWAS			
 				DESIGNATION - M.Sc STUDENT (Mathematics)
 				University of North Bengal
-				Siliguri - 734007, WB, India
+				Siliguri - 734014, WB, India
 				Email - shibabiswas1@gmail.com
-=================================================================
+===================================================================================================
 */
 
 
@@ -159,3 +159,5 @@ float inv(float a[50][50][50],float p[50][50][50])
 	writeR(p,m,m+1,n,m);
 	printline(88);
 }
+
+/*=======================================================================================================*/
